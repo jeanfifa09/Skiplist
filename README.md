@@ -1,1 +1,2 @@
 # Skiplist
+This is a skip list data structure to support the traversal, searching, addition, and deletion of integers from a skip  list. This implementation supports building a skip  list to support integers in the range of 0 to 10,000.  This program takes arguments through the command line.The program is made to read from an input file which contains commands and data to build a skip  list containing integers using commands to insert, search, delete, and print a skip list.
